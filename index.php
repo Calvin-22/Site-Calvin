@@ -13,7 +13,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
         <!-- Lien avec fichier CSS -->
         <link href="index.css" rel="stylesheet" type="text/css"/>
         
-        <title>calvindiaye</title> 
+        <title>calvindiaye.com</title> 
     </head>
     
         
